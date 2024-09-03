@@ -5,6 +5,8 @@
 //   });
 // }
 
+import { createSlice } from "@reduxjs/toolkit";
+
 // async function fetchAddress() {
 //   // 1) We get the user's geolocation position
 //   const positionObj = await getPosition();
