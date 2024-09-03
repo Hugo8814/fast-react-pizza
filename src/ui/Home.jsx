@@ -1,5 +1,4 @@
-import createUser from "../features/users/CreateUser";
-
+import CreateUser from "../features/users/CreateUser";
 function Home() {
   return (
     <div className="my-10 px-4 text-center sm:my-16">
