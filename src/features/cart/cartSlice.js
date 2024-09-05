@@ -1,5 +1,5 @@
 import { createSlice } from "@reduxjs/toolkit";
-import { defaultMethod } from "react-router-dom/dist/dom";
+
 
 const initialState = {
    // cart: [],
